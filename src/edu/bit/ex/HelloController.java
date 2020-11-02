@@ -6,7 +6,7 @@ public class HelloController implements Controller {
 
 	@Override
 	public String handleRequest(HttpServletRequest request, HttpServletResponse response) {	
-		System.out.println("HelloController �ȳ�");
+		System.out.println("HelloController");
 		return "hello";
 	}
 
