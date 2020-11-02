@@ -2,7 +2,7 @@
 Servelt JSP을 통한 Spring 구현
 ![Dispacher](https://user-images.githubusercontent.com/65889898/97840047-b0605c80-1d26-11eb-8afc-22516ba25ad8.jpg)
 
-## 각각의 역활
+## 각각의 역
 
 ##### Dispatcher-Servlet
 Servlet Container에서 HTTP프로토콜을 통해 들어오는 모든 요청을 프레젠테이션 계층의 제일앞에 둬서 중앙집중식으로 처리해주는 프론트 컨트롤러(Front Controller)
